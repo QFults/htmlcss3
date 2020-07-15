@@ -1,0 +1,17 @@
+#myHeading {
+  color: red;
+}
+
+#myDiv {
+  border: 5px solid black;
+}
+
+#myNav {
+  background-color: blue;
+  width: 100%;
+  height: 50px;
+}
+
+#brand {
+  color: white;
+}
